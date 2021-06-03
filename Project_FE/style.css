@@ -2,3 +2,6 @@ h1 {
     color: yellowgreen;
     font-style: italic;
 }
+.grid {
+    grid-template-columns: auto;
+}
