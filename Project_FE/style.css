@@ -2,3 +2,10 @@ h1 {
     color: yellowgreen;
     font-style: italic;
 }
+.grid {
+    grid-template-columns: repeat(3, 1fr);
+    grid-column: initial;
+}
+.cell {
+    border: solid 1px black;
+}
