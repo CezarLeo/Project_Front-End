@@ -9,3 +9,6 @@ h1 {
 .cell {
     border: solid 1px black;
 }
+p {
+    font-style: italic;
+}
